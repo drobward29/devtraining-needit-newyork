@@ -16,7 +16,7 @@
         <sys_updated_by>devin.roberts@itechag.com</sys_updated_by>
         <sys_updated_on>2019-11-13 15:44:05</sys_updated_on>
         <target_name>x_422182_devin_s_t_devins_employees</target_name>
-        <target_scope display_value="Devin's test app">df65e2c4db410010320efe1b689619d5</target_scope>
+        <target_scope display_value="">df65e2c4db410010320efe1b689619d5</target_scope>
         <target_type>sys_db_object</target_type>
     </sys_scope_privilege>
 </record_update>
